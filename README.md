@@ -16,7 +16,7 @@ Backend: Node.js with Express.js is employed to handle server-side logic, facili
 Frontend: React.js powers the frontend, delivering a dynamic and responsive user interface. The frontend communicates with the backend to fetch and display data, ensuring a smooth and interactive experience for users.
 Installation:
 
-Clone the repository: git clone https://github.com/yourusername/project-name.git
+Clone the repository: git clone https://github.com/yourusername/PERN-Stack-Application.git
 Navigate to the project directory: cd project-name
 Install dependencies: npm install
 Start the application: npm start
