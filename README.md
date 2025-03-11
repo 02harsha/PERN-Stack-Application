@@ -58,4 +58,4 @@ This project is licensed under the **MIT License**.
 Feel free to fork this repository and contribute improvements!
 
 ## 👨‍💻 Author
-[Your Name](https://github.com/yourusername)
+[B Harshavardhan](https://github.com/02harsha)
